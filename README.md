@@ -21,9 +21,6 @@
 
 ---
 
-## 🧠 Currently Working On
-- 🔧 Building an AI Teacher (Lili)
-- ⚡ Creating open source projects
 
 ---
 
