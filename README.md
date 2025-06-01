@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Shahin!
 
-<!--
-**shahinsamiur/shahinsamiur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a MERN Stack Developer, AI enthusiast, and founder of NxtPie & Lili 👨‍💻  
+🌱 Currently learning Redis, NestJS, and TypeScript  
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+---
+
+## 📈 GitHub Stats
+
+![Shahin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahin-dev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahin-dev&layout=compact&theme=radical)
+
+---
+
+## 🧠 Currently Working On
+- 🔧 Building an AI Teacher (Lili)
+- ⚡ Creating open source projects
+
+---
+
+## ✨ Fun Fact
+I prefer explaining complex topics in Bengali sometimes 😄
