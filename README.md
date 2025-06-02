@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md. Samiur Rahaman Shahin
+# 👋 Hi, I'm  Samiur Shahin
 
 ### 🚀 MERN Stack Developer | AI Enthusiast | Problem Solver
 
