@@ -1,6 +1,6 @@
-# 👋 Hello, I’m **Samiur Shahin**
+# Hello, I’m **Samiur Shahin**
 
-### 🚀 MERN Stack Architect | AI-Driven Problem Solver | Engineer with a Linguistic Edge
+### MERN Stack Architect | AI-Driven Problem Solver | Engineer with a Linguistic Edge
 
 I design and engineer **high-performance, scalable web systems** with a strong focus on **architecture, real-time interaction, and long-term maintainability**. Based in **Dhaka, Bangladesh**, I work across the full stack—transforming abstract ideas into **production-ready digital products**.
 
@@ -12,7 +12,7 @@ Currently, I am pursuing a **Bachelor of Arts in English** at **Govt. Titumir Co
 
 ---
 
-## 🧠 Engineering Philosophy
+## Engineering Philosophy
 
 - **Architecture before implementation**  
 - **Scalability over quick wins**  
@@ -23,7 +23,7 @@ I believe great software is not only functional—it is **predictable, extensibl
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 ### Frontend Engineering  
 `React.js` · `Next.js` · `Tailwind CSS` · `Redux`  
@@ -45,7 +45,7 @@ I believe great software is not only functional—it is **predictable, extensibl
 
 ---
 
-## ⚙️ What I Build
+## What I Build
 
 - **Real-time web applications** with live updates  
 - **Scalable dashboards & admin systems**  
@@ -54,7 +54,7 @@ I believe great software is not only functional—it is **predictable, extensibl
 
 ---
 
-## 🌱 Growth & Learning
+## Growth & Learning
 
 I continuously refine my skills through:
 - Deep system analysis  
@@ -66,12 +66,12 @@ Progress, for me, is iterative—not accidental.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
-- 📧 Email: [shahinsamiur@gmail.com](mailto:shahinsamiur@gmail.com)  
-- 📍 Location: Mirpur-12, Dhaka, Bangladesh  
-- 📱 Phone: +880 1997 063720  
-- 🌐 Facebook: [Samiur Shahin](https://www.facebook.com/samiur.shahin2020)  
-- 💼 LinkedIn: [Samiur Shahin](https://www.linkedin.com/in/samiur-rahaman-shahin-52b1b2220/)
+-  Email: [shahinsamiur@gmail.com](mailto:shahinsamiur@gmail.com)  
+-  Location: Mirpur-12, Dhaka, Bangladesh  
+-  Phone: +880 1997 063720  
+-  Facebook: [Samiur Shahin](https://www.facebook.com/samiur.shahin2020)  
+-  LinkedIn: [Samiur Shahin](https://www.linkedin.com/in/samiur-rahaman-shahin-52b1b2220/)
 
 
