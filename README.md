@@ -4,11 +4,11 @@
 <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGD29sy92jQ-WiNxrNL6vs_jZltlx3tW0VhL-ljiaVQkZ2a1nW93Krs-V13pXnXVj7hzVEm-YluepMbP5D0RZiZ4v-Ra6QJ_n1tW74g3V4H2cxHSt6act1t2yky_SQf5CfZmlvlrHOc48/s1600/bangladesh-flag-animation.gif" width="9%" style="display:inline;">
 <h1 align="center">Hi 👋, I'm Samiur Shahin</h1>
 <h3 align="center">Full Stack Web Developer from Bangladesh</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I am very passionate about software engineering and fascinated by the way technology keeps on changing our world. I enjoy learning about new technologies and applying them to create innovative projects .</p>
 <p align="center"> 
- <!-- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" />  -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=shahinsamiur&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" />   -->
  <!-- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
- <img alt="Profile followers" src="https://img.shields.io/github/followers/shahinsamiur">
+ <!-- <img alt="Profile followers" src="https://img.shields.io/github/followers/shahinsamiur"> -->
 </p>
 
 <div align="center">
@@ -34,19 +34,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently open to a new Job
+- I’m currently open to a new Job
 
-- 🌱 I’m currently learning **Devops**
+- I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- All of my projects are available at [my works](https://samiurshahin.vercel.app/#works)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- How to reach me **shahinsamiur@gmail.com**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
-- ⚡ Fun fact **I think I'm funny**
+- Know about my experiences [my experiences](https://samiurshahin.vercel.app/#experience)
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -57,7 +53,7 @@
 </p>
 <br>
 
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -117,9 +113,9 @@
 <!-- <h3 align="left">GitHub Stats:</h3>
 <div align="center"> -->
  
- ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinsamiur\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) 
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) -->
+ <!--![samiur's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinsamiur\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) 
+-->
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=shahinsamiur&theme=midnight-purple)](https://git.io/streak-stats) 
 <img src="https://github-profile-trophy.vercel.app/?username=shahinsamiur&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
