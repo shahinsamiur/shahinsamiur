@@ -115,8 +115,8 @@
  
  <!--![samiur's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinsamiur\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) 
 -->
- [![GitHub Streak](https://streak-stats.demolab.com/?user=shahinsamiur&theme=midnight-purple)](https://git.io/streak-stats) 
-<img src="https://github-profile-trophy.vercel.app/?username=shahinsamiur&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahinsamiur&theme=github-dark-blue&hide_border=true&stroke=1f6feb&ring=38bdf8&fire=00c6ff&currStreakLabel=38bdf8)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=shahinsamiur&theme=algolia&no-frame=true&no-bg=true&row=1&column=4&title=Repositories,Stars,Followers,Commits"/>
  </div>
  <br><br>
 </div>
@@ -128,7 +128,7 @@
 <h3 align="left">Activity:</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-![samiur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahinsamiur&custom_title=samiur's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Samiur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahinsamiur&custom_title=Samiur%20Shahin's%20GitHub%20Activity%20Graph&bg_color=0a0f1c&color=38bdf8&line=1d9bf0&point=7dd3fc&area_color=1e40af&title_color=e6edf3&area=true&hide_border=true)
 <br><br>
 
 
