@@ -116,7 +116,7 @@
  <!--![samiur's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinsamiur\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) 
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahinsamiur&theme=github-dark-blue&hide_border=true&stroke=1f6feb&ring=38bdf8&fire=00c6ff&currStreakLabel=38bdf8)](https://git.io/streak-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=shahinsamiur&theme=algolia&no-frame=true&no-bg=true&row=1&column=4&title=Repositories,Stars,Followers,Commits"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=shahinsamiur&theme=algolia&no-frame=true&no-bg=true&row=1&column=4&title=Repositories,Stars,Followers,Commits"/> -->
  </div>
  <br><br>
 </div>
