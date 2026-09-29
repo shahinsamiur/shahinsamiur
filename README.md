@@ -124,38 +124,6 @@ Responsive, fast, animated UIs built with Tailwind CSS
 
 <br/>
 
-## Featured Projects
-
-> Replace the placeholders below with your own projects, then delete this line.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Project Name One**
-
-One-line description of what it does and who it is for.
-
-`Next.js` `Node.js` `PostgreSQL`
-
-[Live Demo](https://samiurshahin.vercel.app/#works) | [Source](https://github.com/shahinsamiur)
-
-</td>
-<td width="50%" valign="top">
-
-**Project Name Two**
-
-One-line description of what it does and who it is for.
-
-`Laravel` `React` `MySQL`
-
-[Live Demo](https://samiurshahin.vercel.app/#works) | [Source](https://github.com/shahinsamiur)
-
-</td>
-</tr>
-</table>
-
-More projects: **[samiurshahin.vercel.app/#works](https://samiurshahin.vercel.app/#works)**
 
 <br/>
 
