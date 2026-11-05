@@ -1,4 +1,4 @@
-<!-- HEADER -->
+ <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1c,50:1d9bf0,100:38bdf8&height=240&section=header&text=Samiur%20Shahin&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%E2%80%A2%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=62&descSize=18" width="100%" alt="Samiur Shahin header"/>
 
 <div align="center">
@@ -35,6 +35,7 @@
 I'm a **Full Stack Web Developer** from Bangladesh. I build complete web products, from the database and API to a polished interface, and I handle both the technical work and the client conversation.
 
 - Currently learning **DevOps** and **Cloud Architecture**
+- Contributing to open-source projects and developer tools
 - Passionate about building things that make a difference
 - All my projects: **[My Works](https://samiurshahin.vercel.app/#works)**
 - Reach me at **[shahinsamiur@gmail.com](mailto:shahinsamiur@gmail.com)**
@@ -90,6 +91,53 @@ Responsive, fast, animated UIs built with Tailwind CSS
 
 <br/>
 
+## Open Source Contributions
+
+I enjoy exploring large codebases, investigating real-world bugs, and collaborating with maintainers to improve developer tools.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### pnpm
+
+<a href="https://github.com/pnpm/pnpm/pull/17428">
+  <img src="https://img.shields.io/badge/PR%20%2317428-MERGED-238636?style=flat-square&logo=github&logoColor=white" alt="Merged PR"/>
+</a>
+
+**[fix: accept --cache-dir as a CLI setting](https://github.com/pnpm/pnpm/pull/17428)**
+
+- Fixed `--cache-dir` argument handling in pnpm 12.
+- Added support for passing cache directories as bare CLI settings.
+- Added tests for argument extraction and configuration loading.
+- Successfully merged into the main branch.
+
+**Tech:** Rust, CLI, Testing
+
+</td>
+<td width="50%" valign="top">
+
+### TypeScript
+
+<a href="https://github.com/microsoft/TypeScript/pull/64893">
+  <img src="https://img.shields.io/badge/PR%20%2364893-OPEN-1d9bf0?style=flat-square&logo=github&logoColor=white" alt="Open PR"/>
+</a>
+
+**[fix(checker): resolve TS2322 regression](https://github.com/microsoft/TypeScript/pull/64893)**
+
+- Investigated a `TS2322` regression involving circular generic types.
+- Worked on variance calculation in the TypeScript compiler checker.
+- Proposed changes to handle circular types safely.
+- Added a reproduction test and participated in technical review discussions.
+
+**Tech:** TypeScript, Compiler Internals, Testing
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## Tech Stack
 
 <div align="center">
@@ -111,19 +159,6 @@ Responsive, fast, animated UIs built with Tailwind CSS
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" alt="Tools"/> |
 
 </details>
-
-<br/>
-
-## Currently
-
-| | |
-| :-- | :-- |
-| **Learning** | DevOps and Cloud Architecture |
-| **Building** | Full stack client projects |
-| **Looking for** | New job opportunities |
-
-<br/>
-
 
 <br/>
 
